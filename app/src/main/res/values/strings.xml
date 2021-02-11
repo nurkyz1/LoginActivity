@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="text">Выполните вход </string>
+    <string name="edit_txt">Введите пароль</string>
+    <string name="button_txt">Войти</string>
+    <string name="edit_txt1">Введите вашу почту</string>
+    <string name="txt2">Вход</string>
+    <string name="txt1">Добро пожаловать!</string>
+    <string name="txt3">или зарегистрируйтесь.</string>
+    <string name="txt4">Забыл пароль?</string>
+    <string name="txt5">Нажмите сюда</string>
+</resources>
